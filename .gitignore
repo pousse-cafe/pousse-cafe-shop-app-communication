@@ -1,0 +1,10 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Pousse-Café
+.pousse-cafe
+
+# Maven
+target/
